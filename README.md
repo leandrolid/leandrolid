@@ -12,6 +12,8 @@ Enthusiast of web development, front-end and back-end.
 But to be truthful, developing responsives and plesant interfaces is what I'm passionate about.
 I'm a great advocate of technology as a tool for transformation. And if I can make a difference for people using this power, I will be there.
 
+<br>
+ <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolid&layout=compact&langs_count=7&theme=gotham"/>
 
 <div style="display: inline_block"><br>
    <a href="https://github.com/leandrolid">
@@ -22,7 +24,4 @@ I'm a great advocate of technology as a tool for transformation. And if I can ma
   <img align="center" alt="-Redux" height="30" width="30" src="https://camo.githubusercontent.com/37d7a9a7f4e4fa18c400fb3042f9c36a8e57ab7b34295e7c2bc4b990a74e756d/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f72656475785f6f726967696e616c5f6c6f676f5f69636f6e5f3134363336352e706e67">
   </a>
 </div>
-
-<br>
- <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolid&layout=compact&langs_count=7&theme=gotham"/>
  
