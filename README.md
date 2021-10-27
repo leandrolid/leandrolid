@@ -2,12 +2,15 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leandro%20Liduvino-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrolid/)](https://www.linkedin.com/in/leandrolid/) 
  
-Student at @Trybe
+### Student at @Trybe
 
 - 🌱: I’m currently learning SQL
 - 🙂: Pronouns: ele/dele
 
-#### I'm a great advocate of technology as a tool for transformation. And if I can make an impact on people using this power, I will be there.
+Enthusiast of web development, front-end and back-end.
+
+But to be truthful, developing responsives and plesant interfaces is what I'm passionate about.
+I'm a great advocate of technology as a tool for transformation. And if I can make a difference for people using this power, I will be there.
 
 <div style="display: inline_block"><br>
    <a href="https://github.com/leandrolid">
