@@ -4,7 +4,7 @@
  
 ### Student at @Trybe
  
-- 🌱: I’m currently learning SQL
+- 🌱: I’m currently learning Kotlin
 - 🙂: Pronouns: ele/dele
 
 Enthusiast of web development, front-end and back-end.
