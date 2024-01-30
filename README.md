@@ -6,10 +6,7 @@
  
 - 🌱: Currently learning Kotlin
 
-Enthusiast of web development, front-end and back-end.
-
-But to be truthful, developing responsives and plesant interfaces is what I'm passionate about.
-I'm a great advocate of technology as a tool for transformation. And if I can make a difference for people using this power, I will be there.
+In my current role as Technical Software Leader, I've transformed projects by enhancing performance and development processes. As a Front-end Developer, I contributed to responsive interfaces, collaborating on the ongoing modernization of React and Node web applications. Committed, proactive, and innovative, I seek challenges to achieve exceptional results.
 
 <br>
  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrolid&layout=compact&langs_count=7&theme=tokyonight"/>
